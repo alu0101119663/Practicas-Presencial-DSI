@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/ej1.ts"
+  ],
+  "out": "./docs"
+}
